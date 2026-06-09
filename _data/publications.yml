@@ -1,0 +1,39 @@
+- year: 2026
+  title: "OMP: One-step Meanflow Policy with Directional Alignment"
+  url: "https://arxiv.org/abs/2512.19347"
+  authors: "Han Fang, Yize Huang, Yuheng Zhao, Paul Weng, Xiao Li, Yutong Ban"
+  venue: "International Conference on Machine Learning (ICML), 2026"
+  note: "First author"
+- year: 2026
+  title: "ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization"
+  url: "https://arxiv.org/abs/2501.17377"
+  authors: "Han Fang, Paul Weng, Yutong Ban"
+  venue: "International Conference on Machine Learning (ICML), 2026"
+  note: "First author"
+- year: 2026
+  title: "DSSP: Diffusion State Space Policy with Full-History Encoding"
+  url: "https://arxiv.org/abs/2605.14598"
+  authors: "Zhiyuan Guan, Jianshu Hu, Han Fang, Yunpeng Jiang, Yize Huang, Shujia Li, Xiao Li, Yutong Ban"
+  venue: "arXiv:2605.14598, 2026"
+- year: 2025
+  title: "OSGym: Scalable OS Infra for Computer Use Agents"
+  url: "https://arxiv.org/abs/2511.11672"
+  authors: "Zengyi Qin, Jinyuan Chen, Yunze Man, Shengcao Cao, Ziqi Pang, Zhuoyuan Wang, Han Fang, Ling Zhu, Zixin Xie, Zibu Wei, Tianshu Ran, Haoran Geng, Ray Pan, Qizhen Sun, Zachary Bright, Yuyang Cai, Chongye Yang, Jiace Zhao, Tianrui Liu, Han Cao, Yeyang Zhou, Rui Wang, Song Wang, Xiang Ren, Bo Zhang, Yutong Ban, Pieter Abbeel, Brian Anthony"
+  venue: "arXiv:2511.11672, 2025"
+- year: 2025
+  title: "Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries"
+  url: "https://arxiv.org/abs/2503.02558"
+  authors: "Zeqing Wang*, Han Fang*, Yihong Xu, Yutong Ban"
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025"
+  note: "Co-first author"
+- year: 2024
+  title: "INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer"
+  url: "https://proceedings.mlr.press/v235/fang24c.html"
+  authors: "Han Fang, Zhihao Song, Paul Weng, Yutong Ban"
+  venue: "International Conference on Machine Learning (ICML), 2024"
+  note: "First author"
+- year: 2023
+  title: "Multi-objective Generative Design of Three-dimensional Material Structures"
+  url: "https://doi.org/10.1063/5.0169432"
+  authors: "Zhengyang Zhang, Han Fang, Zhao Xu, Jiajie Lv, Yao Shen, Yanming Wang"
+  venue: "APL Machine Learning, 1(4):046120, 2023"

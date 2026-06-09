@@ -1,0 +1,22 @@
+title: Han Fang
+description: Personal academic homepage of Han Fang
+url: "https://kasumigaoka-utaha.github.io"
+baseurl: "/fhinfo"
+lang: en
+
+author:
+  name: Han Fang
+  email: han.fang@sjtu.edu.cn
+  affiliation: UM-SJTU Joint Institute, Shanghai Jiao Tong University
+  address: 800 Dongchuan Road, Shanghai, China
+  github: Kasumigaoka-Utaha
+  google_scholar: https://scholar.google.com/citations?user=SpmrWO4AAAAJ&hl=zh-CN
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - "*.pdf"
+  - README.md
+  - Gemfile
+  - Gemfile.lock
