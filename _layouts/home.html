@@ -61,7 +61,7 @@ layout: default
     </div>
     <ul class="interest-list">
       {% for item in site.data.research %}
-        <li>{{ item }}</li>
+        <li{% if item.highlight %} class="highlight"{% endif %}>{{ item.title }}</li>
       {% endfor %}
     </ul>
   </section>
@@ -83,7 +83,10 @@ layout: default
                 {{ paper.title }}
               {% endif %}
             </h3>
-            <p class="authors">{{ paper.authors }}</p>
+            <p class="authors">
+              {% assign bold_author = '<strong>' | append: site.author.name | append: '</strong>' %}
+              {{ paper.authors | replace: site.author.name, bold_author }}
+            </p>
             <p class="venue">{{ paper.venue }}</p>
             {% if paper.note %}
               <p class="note">{{ paper.note }}</p>

@@ -1,5 +1,7 @@
-- Reinforcement learning and sequential decision-making
-- Neural combinatorial optimization
-- Robot learning and generative policies
-- Visual and surgical robotic perception
-- Computer vision and 3D reconstruction
+- title: Reinforcement Learning and Sequential Decision Making
+  highlight: true
+- title: Neural combinatorial optimization
+- title: Robot Learning and Generative policies
+  highlight: true
+- title: Visual and surgical robotic perception
+- title: Computer vision and 3D reconstruction

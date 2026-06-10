@@ -217,6 +217,14 @@ h1 {
   padding: 16px 18px;
 }
 
+.interest-list li.highlight {
+  background: rgba(159, 74, 47, 0.1);
+  border-color: rgba(159, 74, 47, 0.42);
+  box-shadow: inset 4px 0 0 var(--accent);
+  color: var(--accent-dark);
+  font-weight: 800;
+}
+
 .publication-list,
 .timeline {
   display: grid;
@@ -252,6 +260,11 @@ h1 {
 
 .authors {
   color: var(--ink);
+}
+
+.authors strong {
+  color: var(--accent-dark);
+  font-weight: 800;
 }
 
 .venue {
